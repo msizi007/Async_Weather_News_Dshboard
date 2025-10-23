@@ -1,0 +1,17 @@
+{
+  "name": "async_weather_news_dshboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsc --watch && nodemon dist/callbackVersion.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/typescript": "^0.4.29",
+    "typescript": "^5.9.3"
+  }
+}
